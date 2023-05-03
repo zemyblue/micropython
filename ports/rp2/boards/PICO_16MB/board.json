@@ -1,0 +1,23 @@
+{
+    "deploy": [
+        "../deploy.md"
+    ],
+    "docs": "",
+    "features": [
+        "Breadboard friendly",
+        "Castellated Pads",
+        "USB-C",
+        "WS2812 NEOPIXEL",
+        "User Button",
+        "Reset Button"
+    ],
+    "id": "rp2-pico-copy",
+    "images": [
+        "rp2-pico.jpg"
+    ],
+    "mcu": "rp2040",
+    "product": "Pico Copy",
+    "thumbnail": "",
+    "url": "https://www.raspberrypi.com/products/raspberry-pi-pico/",
+    "vendor": "Raspberry Pi Copy"
+}
